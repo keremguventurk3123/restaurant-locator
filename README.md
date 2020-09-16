@@ -4,3 +4,5 @@ This is a react-native application dedicated to finding restaurants near your vi
 To install, simply execute yarn.
 
 To start, execute yarn start or expo run.
+
+You will need a Yelp Developer account to run this application. You can either contact me or get your own developer account from <https://www.yelp.com/developers>. Once you do, replace the Authorization token with your own in src/api/Yelp.js
